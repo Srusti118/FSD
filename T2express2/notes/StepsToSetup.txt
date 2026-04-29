@@ -1,0 +1,18 @@
+create a folder
+
+open folder in vs code and open terminal.
+
+Write npm init , press enter , keep on pressing enter until yes is asked .
+--package.json banse 
+
+npm install express
+--particular folder ma express install thase 
+--node module + package.lock.json
+
+npm install -g express (globallly use thai shake , gloabally install krse )
+
+---------------------------------------------------------------------------------------------------------------------
+Dependencies ma je hase e badhu auto install thai jai
+express - framework of node 
+---------------------------------------------------------------------------------------------------------------------
+middleware from chapter 4
