@@ -1,3 +1,3 @@
 ## SET UP
--- npm init 
+-- npm init <br>
 -- npm install
