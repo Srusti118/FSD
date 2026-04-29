@@ -1,0 +1,15 @@
+- jyare server pase req gai , server started
+- session data ends when we close the session
+- assigns cookie to store the session Id .Server makes the cookie session Id
+- now req = req + session
+- read req thi thase , only if the session Id match in cookie
+- 5 days sudhi session alive (default)
+- cookie 400 days (default)
+----------------------------------------------------
+cookie ma req.cookies.f = "srusti" --> not allowed
+session ma req.session.f = "srusti" --> allowed
+-------------------------------------------------------
+- confidential vastu session ma store as it is stored in server side , cookie client side
+
+before res ave ena pehla want to redirect ?
+use res.redirect("/fetchsession") only response can be redirect
